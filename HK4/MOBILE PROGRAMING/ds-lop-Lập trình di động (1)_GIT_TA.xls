@@ -1,0 +1,661 @@
+
+		<table width="100%" style="font-family: Times !important">
+		<tr>
+		<td colspan="3" align="center" width="55%">ĐẠI HỌC ĐÀ NẴNG</td>
+		<td colspan="3" align="center" width="45%"><b>CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM</b></td>
+		</tr>
+
+		<tr>
+		<td colspan="3" align="center"><b>TRƯỜNG ĐẠI HỌC CNTT & TT VIỆT - HÀN</b></td>
+		<td colspan="3" align="center"><b>Độc lập - Tự do - Hạnh phúc</b></td>
+		</tr>
+
+		<tr>
+		<td colspan="3" align="center">-----------------***-----------------</td>
+		<td colspan="3" align="center">      -------------***-------------</td>
+		</tr>
+
+		<tr>
+		<td align="center" colspan="7" height="100"><span style=" font-size:15px;" class="title"><b>DANH SÁCH SINH VIÊN LỚP HỌC PHẦN
+		<br/>
+		<div style="text-transform: uppercase; font-size:15px;">Lập trình di động (1)_GIT_TA</div>
+		</b></span></td>
+		</tr>
+		</table>
+<br/>
+		<table border = "1"  style="font-family: Times !important" width="100%">
+		<tr>
+		<th rowspan="3" width="5%">STT</th>
+		<th colspan="5" width="30%">THÔNG TIN SINH VIÊN</th>
+		<th rowspan="3" width="40%"><div style="width:200px !important">GHI CHÚ</div></th>
+		</tr>
+		<tr>
+		<th rowspan="2" width="10%">SỐ THẺ</th>
+		<th rowspan="2" colspan="2">HỌ VÀ TÊN</th>
+		<th rowspan="2" width="9%">NGÀY SINH</th>
+		<th rowspan="2" width="5%">LỚP SH</th>          
+		</tr>
+		<tr>
+		</tr>
+		
+			<tr>
+			<td>1</td>
+			<td>22IT.B008</td>
+			<td>DƯƠNG THỊ NGỌC</td>
+			<td>ÁNH</td>
+			<td>2004-02-06</td>
+			<td>22GIT2</td>
+			<td width="200">anhdtn.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>2</td>
+			<td>22IT008</td>
+			<td>TẠ QUANG</td>
+			<td>ANH</td>
+			<td>2004-10-29</td>
+			<td>22GIT2</td>
+			<td width="200">anhtq2.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>3</td>
+			<td>22IT015</td>
+			<td>HỒ QUỐC</td>
+			<td>BẢO</td>
+			<td>2004-06-09</td>
+			<td>22GIT1</td>
+			<td width="200">baohq.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>4</td>
+			<td>22IT020</td>
+			<td>TRẦN NGUYỄN NGỌC</td>
+			<td>BẢO</td>
+			<td>2004-10-20</td>
+			<td>22GIT2</td>
+			<td width="200">baotnn.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>5</td>
+			<td>22IT027</td>
+			<td>NGUYỄN THANH</td>
+			<td>BÌNH</td>
+			<td>2004-04-06</td>
+			<td>22GIT1</td>
+			<td width="200">binhnt.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>6</td>
+			<td>22IT034</td>
+			<td>PHAN THỊ</td>
+			<td>CHI</td>
+			<td>2004-07-21</td>
+			<td>22GIT2</td>
+			<td width="200">chipt.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>7</td>
+			<td>22IT.B032</td>
+			<td>ĐỖ TRUNG</td>
+			<td>DŨNG</td>
+			<td>2004-10-03</td>
+			<td>22GIT2</td>
+			<td width="200">dungdt.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>8</td>
+			<td>22IT048</td>
+			<td>HOÀNG CÔNG TRÍ</td>
+			<td>DŨNG</td>
+			<td>2004-10-17</td>
+			<td>22GIT1</td>
+			<td width="200">dunghct.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>9</td>
+			<td>22IT050</td>
+			<td>NGUYỄN TRÍ</td>
+			<td>DŨNG</td>
+			<td>2004-07-16</td>
+			<td>22GIT2</td>
+			<td width="200">dungnt.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>10</td>
+			<td>22IT051</td>
+			<td>ĐÀO KHÁNH</td>
+			<td>DUY</td>
+			<td>2004-09-17</td>
+			<td>22GIT1</td>
+			<td width="200">duydk.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>11</td>
+			<td>22IT060</td>
+			<td>NGUYỄN ĐỨC</td>
+			<td>ĐẠT</td>
+			<td>2004-09-05</td>
+			<td>22GIT1</td>
+			<td width="200">datnd.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>12</td>
+			<td>22IT.B046</td>
+			<td>NGUYỄN TIẾN</td>
+			<td>ĐẠT</td>
+			<td>2003-12-29</td>
+			<td>22GIT2</td>
+			<td width="200">datnt.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>13</td>
+			<td>22IT070</td>
+			<td>VÕ HỒNG</td>
+			<td>ĐỨC</td>
+			<td>2004-02-27</td>
+			<td>22GIT1</td>
+			<td width="200">ducvh.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>14</td>
+			<td>22IT073</td>
+			<td>NGUYỄN THỊ HOÀI</td>
+			<td>HÀ</td>
+			<td>2004-09-05</td>
+			<td>22GIT2</td>
+			<td width="200">hanth.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>15</td>
+			<td>22IT.B067</td>
+			<td>NGUYỄN THÚY</td>
+			<td>HẰNG</td>
+			<td>2004-12-04</td>
+			<td>22GIT2</td>
+			<td width="200">hangnt.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>16</td>
+			<td>22IT.B073</td>
+			<td>ĐẶNG TRUNG</td>
+			<td>HIẾU</td>
+			<td>2004-03-01</td>
+			<td>22GIT2</td>
+			<td width="200">hieudt.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>17</td>
+			<td>22IT.B075</td>
+			<td>NGUYỄN HOÀNG</td>
+			<td>HIẾU</td>
+			<td>2004-07-22</td>
+			<td>22GIT2</td>
+			<td width="200">hieunh.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>18</td>
+			<td>22IT.B076</td>
+			<td>NGUYỄN MINH</td>
+			<td>HIẾU</td>
+			<td>2002-09-17</td>
+			<td>22GIT2</td>
+			<td width="200">hieunm.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>19</td>
+			<td>22IT.B078</td>
+			<td>BÙI THỊ PHƯƠNG</td>
+			<td>HOA</td>
+			<td>2004-06-21</td>
+			<td>22GIT2</td>
+			<td width="200">hoabtp.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>20</td>
+			<td>22IT096</td>
+			<td>LÊ VĂN NHẬT</td>
+			<td>HOÀNG</td>
+			<td>2004-01-01</td>
+			<td>22GIT2</td>
+			<td width="200">hoanglvn.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>21</td>
+			<td>22IT.B086</td>
+			<td>NGUYỄN THỊ HUY</td>
+			<td>HOÀNG</td>
+			<td>2004-01-01</td>
+			<td>22GIT2</td>
+			<td width="200">hoangnth.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>22</td>
+			<td>22IT099</td>
+			<td>NGUYỄN VĂN GIA</td>
+			<td>HOÀNG</td>
+			<td>2004-01-01</td>
+			<td>22GIT2</td>
+			<td width="200">hoangnvg.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>23</td>
+			<td>22IT101</td>
+			<td>PHAN NGUYỄN HUY</td>
+			<td>HOÀNG</td>
+			<td>2004-05-14</td>
+			<td>22GIT1</td>
+			<td width="200">hoangpnh.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>24</td>
+			<td>22IT105</td>
+			<td>VÕ VĂN</td>
+			<td>HOÀNG</td>
+			<td>2004-02-07</td>
+			<td>22GIT2</td>
+			<td width="200">hoangvv.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>25</td>
+			<td>22IT.B100</td>
+			<td>NGUYỄN VIỆT</td>
+			<td>HƯNG</td>
+			<td>2004-05-01</td>
+			<td>22GIT2</td>
+			<td width="200">hungnv.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>26</td>
+			<td>22IT.B091</td>
+			<td>ĐẶNG HÀ QUANG</td>
+			<td>HUY</td>
+			<td>2003-03-16</td>
+			<td>22GIT2</td>
+			<td width="200">huydhq.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>27</td>
+			<td>22IT111</td>
+			<td>HỒ THANH</td>
+			<td>HUY</td>
+			<td>2004-02-13</td>
+			<td>22GIT1</td>
+			<td width="200">huyht.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>28</td>
+			<td>22IT112</td>
+			<td>HỒ VĂN</td>
+			<td>HUY</td>
+			<td>2004-08-27</td>
+			<td>22GIT1</td>
+			<td width="200">huyhv.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>29</td>
+			<td>22IT139</td>
+			<td>LÊ VĂN</td>
+			<td>KHANH</td>
+			<td>2004-10-25</td>
+			<td>22GIT2</td>
+			<td width="200">khanhlv.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>30</td>
+			<td>22IT.B115</td>
+			<td>TRẦN NHẬT</td>
+			<td>LAM</td>
+			<td>2004-04-21</td>
+			<td>22GIT2</td>
+			<td width="200">lamtn.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>31</td>
+			<td>22IT150</td>
+			<td>NGUYỄN THỊ</td>
+			<td>LAN</td>
+			<td>2004-04-18</td>
+			<td>22GIT1</td>
+			<td width="200">lannt.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>32</td>
+			<td>22IT153</td>
+			<td>VÕ THỊ THÚY</td>
+			<td>LÀNH</td>
+			<td>2004-05-16</td>
+			<td>22GIT2</td>
+			<td width="200">lanhvtt.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>33</td>
+			<td>22IT156</td>
+			<td>TRƯƠNG NGỌC KHÁNH</td>
+			<td>LINH</td>
+			<td>2004-12-03</td>
+			<td>22GIT1</td>
+			<td width="200">linhtnk.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>34</td>
+			<td>22IT161</td>
+			<td>PHAN THÀNH</td>
+			<td>LỘC</td>
+			<td>2004-03-26</td>
+			<td>22GIT2</td>
+			<td width="200">locpt.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>35</td>
+			<td>22IT173</td>
+			<td>NGUYỄN VÕ VĂN</td>
+			<td>MẪN</td>
+			<td>2004-05-16</td>
+			<td>22GIT2</td>
+			<td width="200">mannvv.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>36</td>
+			<td>22IT176</td>
+			<td>VÕ VĂN</td>
+			<td>MINH</td>
+			<td>2004-08-17</td>
+			<td>22GIT1</td>
+			<td width="200">minhvv.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>37</td>
+			<td>22IT180</td>
+			<td>NGUYỄN LÊ CHÂU</td>
+			<td>NGÂN</td>
+			<td>2004-01-12</td>
+			<td>22GIT1</td>
+			<td width="200">ngannlc.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>38</td>
+			<td>22IT.B150</td>
+			<td>NGUYỄN MINH</td>
+			<td>NGUYỄN</td>
+			<td>2004-09-13</td>
+			<td>22GIT2</td>
+			<td width="200">nguyennm.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>39</td>
+			<td>22IT197</td>
+			<td>LÊ QUANG</td>
+			<td>NHÃ</td>
+			<td>2004-08-13</td>
+			<td>22GIT2</td>
+			<td width="200">nhalq.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>40</td>
+			<td>22IT198</td>
+			<td>HỒ SỸ BẢO</td>
+			<td>NHÂN</td>
+			<td>2004-11-22</td>
+			<td>22GIT1</td>
+			<td width="200">nhanhsb.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>41</td>
+			<td>22IT.B152</td>
+			<td>LÊ ANH</td>
+			<td>NHÂN</td>
+			<td>2004-03-03</td>
+			<td>22GIT2</td>
+			<td width="200">nhanla.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>42</td>
+			<td>22IT203</td>
+			<td>TRẦN HIẾU</td>
+			<td>NHÂN</td>
+			<td>2004-03-04</td>
+			<td>22GIT1</td>
+			<td width="200">nhanth.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>43</td>
+			<td>22IT.B157</td>
+			<td>NGUYỄN QUANG</td>
+			<td>PHONG</td>
+			<td>2004-01-13</td>
+			<td>22GIT2</td>
+			<td width="200">phongnq.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>44</td>
+			<td>22IT221</td>
+			<td>NGUYỄN XUÂN</td>
+			<td>PHONG</td>
+			<td>2004-01-23</td>
+			<td>22GIT1</td>
+			<td width="200">phongnx.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>45</td>
+			<td>22IT222</td>
+			<td>VÕ THANH</td>
+			<td>PHONG</td>
+			<td>2004-05-22</td>
+			<td>22GIT1</td>
+			<td width="200">phongvt.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>46</td>
+			<td>22IT226</td>
+			<td>LÊ ĐÌNH</td>
+			<td>PHÚC</td>
+			<td>2004-12-03</td>
+			<td>22GIT1</td>
+			<td width="200">phucld.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>47</td>
+			<td>22IT237</td>
+			<td>TRẦN BẢO</td>
+			<td>QUÂN</td>
+			<td>2004-12-19</td>
+			<td>22GIT2</td>
+			<td width="200">quantb.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>48</td>
+			<td>22IT232</td>
+			<td>VŨ HỮU MINH</td>
+			<td>QUANG</td>
+			<td>2004-06-21</td>
+			<td>22GIT2</td>
+			<td width="200">quangvhm.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>49</td>
+			<td>22IT239</td>
+			<td>HOÀNG TẤN PHÚ</td>
+			<td>QUỐC</td>
+			<td>2004-01-02</td>
+			<td>22GIT1</td>
+			<td width="200">quochtp.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>50</td>
+			<td>22IT242</td>
+			<td>HOÀNG MINH</td>
+			<td>QUÝ</td>
+			<td>2004-01-02</td>
+			<td>22GIT1</td>
+			<td width="200">quyhm.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>51</td>
+			<td>22IT.B170</td>
+			<td>LÊ TĂNG PHÚ</td>
+			<td>QUÝ</td>
+			<td>2004-05-01</td>
+			<td>22GIT2</td>
+			<td width="200">quyltp.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>52</td>
+			<td>22IT245</td>
+			<td>LƯU HÀ NHẬT</td>
+			<td>QUỲNH</td>
+			<td>2004-10-30</td>
+			<td>22GIT1</td>
+			<td width="200">quynhlhn.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>53</td>
+			<td>22IT255</td>
+			<td>VÕ NGUYỄN TẤN</td>
+			<td>TÀI</td>
+			<td>2004-08-25</td>
+			<td>22GIT2</td>
+			<td width="200">taivnt.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>54</td>
+			<td>22IT257</td>
+			<td>CAO ĐỨC</td>
+			<td>TÂM</td>
+			<td>2004-05-19</td>
+			<td>22JIT</td>
+			<td width="200">tamcd.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>55</td>
+			<td>22IT259</td>
+			<td>TRƯƠNG HUỲNH MỸ</td>
+			<td>TÂM</td>
+			<td>2004-07-02</td>
+			<td>22GIT1</td>
+			<td width="200">tamthm.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>56</td>
+			<td>22IT.B184</td>
+			<td>PHAN NGỌC</td>
+			<td>THẠCH</td>
+			<td>2001-06-01</td>
+			<td>22GIT2</td>
+			<td width="200">thachpn.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>57</td>
+			<td>22IT.B186</td>
+			<td>NGUYỄN ĐINH DUY</td>
+			<td>THÁI</td>
+			<td>2004-02-04</td>
+			<td>22GIT2</td>
+			<td width="200">thaindd.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>58</td>
+			<td>22IT266</td>
+			<td>MAI PHƯỚC</td>
+			<td>THÀNH</td>
+			<td>2004-03-28</td>
+			<td>22GIT1</td>
+			<td width="200">thanhmp.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>59</td>
+			<td>22IT274</td>
+			<td>NGUYỄN THỊ CHÂU</td>
+			<td>THI</td>
+			<td>2004-04-17</td>
+			<td>22GIT1</td>
+			<td width="200">thintc.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>60</td>
+			<td>22IT276</td>
+			<td>HUỲNH NGỌC</td>
+			<td>THIỆN</td>
+			<td>2004-12-13</td>
+			<td>22GIT2</td>
+			<td width="200">thienhn.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>61</td>
+			<td>22IT279</td>
+			<td>MAI ĐÌNH GIA</td>
+			<td>THỊNH</td>
+			<td>2004-08-02</td>
+			<td>22GIT2</td>
+			<td width="200">thinhmdg.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>62</td>
+			<td>22IT280</td>
+			<td>NGUYỄN PHÚ</td>
+			<td>THỊNH</td>
+			<td>2004-07-27</td>
+			<td>22GIT1</td>
+			<td width="200">thinhnp.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>63</td>
+			<td>22IT.B199</td>
+			<td>VƯƠNG VĂN</td>
+			<td>THÔNG</td>
+			<td>2004-01-08</td>
+			<td>22GIT2</td>
+			<td width="200">thongvv.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>64</td>
+			<td>22IT305</td>
+			<td>NGUYỄN HUYỀN</td>
+			<td>TRANG</td>
+			<td>2004-06-05</td>
+			<td>22GIT1</td>
+			<td width="200">trangnh.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>65</td>
+			<td>22IT316</td>
+			<td>BÙI ĐÌNH</td>
+			<td>TRUNG</td>
+			<td>2004-04-07</td>
+			<td>22GIT1</td>
+			<td width="200">trungbd.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>66</td>
+			<td>22IT317</td>
+			<td>ĐỖ QUANG</td>
+			<td>TRUNG</td>
+			<td>2004-12-15</td>
+			<td>22GIT2</td>
+			<td width="200">trungdq.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>67</td>
+			<td>22IT319</td>
+			<td>NGUYỄN THÀNH</td>
+			<td>TRƯƠNG</td>
+			<td>2004-11-08</td>
+			<td>22GIT1</td>
+			<td width="200">truongnt.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>68</td>
+			<td>22IT.B233</td>
+			<td>NGUYỄN ANH</td>
+			<td>TUẤN</td>
+			<td>2004-11-26</td>
+			<td>22GIT2</td>
+			<td width="200">tuanna.22git@vku.udn.vn</td>
+			</tr>			
+			<tr>
+			<td>69</td>
+			<td>22IT339</td>
+			<td>NGUYỄN THANH</td>
+			<td>VIỆT</td>
+			<td>2004-04-15</td>
+			<td>22GIT2</td>
+			<td width="200">vietnt.22git@vku.udn.vn</td>
+			</tr>			</table>
